@@ -18,6 +18,11 @@ This project is a responsive clone of YouTube, created using HTML and CSS. The w
 - Flexbox and Grid for layout
 - Media queries for responsiveness
 
+## Screenshots
+
+![Screenshot of the homepage](https://github.com/AbinS2003/Project-Youtube/blob/master/project-youtube-screenshot1.png)
+
+
 ## Installation
 
 1. Clone the repository:
